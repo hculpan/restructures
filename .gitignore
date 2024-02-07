@@ -1,3 +1,7 @@
+# Data files
+data.txt
+*output.txt
+
 # Prerequisites
 *.d
 
