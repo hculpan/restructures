@@ -39,7 +39,7 @@ int main()
     clock_t start = clock();
 
     // 3. Call the function 'run'
-    runSimpleLinkedList(strings);
+    runHashTable(strings);
     // runHashTable(strings);
 
     // 4. Compute and output the total computational time
